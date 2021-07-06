@@ -1,3 +1,3 @@
 # data310
 
-[First test](week1.md)
+[First day question answers](week1.md)
