@@ -44,5 +44,5 @@ Training accuracy: 0.9952 -- Testing accuracy: 0.9771
 ![img_7.png](img_7.png)
 * #### Evaluate how your model for the MNIST dataset compared with your model of the Fashion_MNIST dataset. Which of the two models is more accurate? Why do you think this is so?
 
-The models were similar in terms of execution and training. However, the MINST was more accurate than Fashion_MINST. MINST had a higher testing and training score than Fashion_MNIST. I think this is because numbers, even though handwritten, do not vary as much as fashion or articles of clothing, therefore, they're easier to train AND predict.
+The models were similar in terms of execution and training. However, the MINST was more accurate than Fashion_MINST. MINST had a higher testing and training score. I believe this is because numbers, even though handwritten, do not vary as much as fashion or articles of clothing, therefore, they're easier to train AND predict.
 
