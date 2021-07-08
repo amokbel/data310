@@ -1,3 +1,5 @@
-# data310
+# Data310
 
-[First day question answers](week1.md)
+[Tuesday 07/06](week1.md)
+
+[Wednesday 07/07](wedw1.md)
