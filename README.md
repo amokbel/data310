@@ -1,5 +1,7 @@
 # Data310
 
-[Tuesday 07/06](week1.md)
+**Module 1**
 
-[Wednesday 07/07](wedw1.md)
+-[Tuesday 07/06](week1.md)
+
+-[Wednesday 07/07](wedw1.md)
