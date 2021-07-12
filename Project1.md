@@ -1,6 +1,8 @@
 ####How did your model fare?
 
 ![img_8.png](img_8.png) ![img_9.png](img_9.png)
+
+
 In terms of my loss model, the loss was not very consistent, but it seemed to generally decrease as the epoch increased, compared to the beginning.
 For my asking vs predicted price data, my MSE was **_really_** bad with an MSE of around 1407. I think I would have had better luck with another city.
 The MSE gave me such a hard time while I was trying to find out what was causing it to be so high.
