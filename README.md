@@ -10,4 +10,5 @@
 -[ Thursday 07/08](https://tyeatts75.github.io/Data310/thurs1.html)
 
 ##Projects
+
 -[ Project 1](Project1.md)
