@@ -1,5 +1,3 @@
-`Quesetion 1`
-
 ####How did your model fare?
 
 ![img_8.png](img_8.png) ![img_9.png](img_9.png)
