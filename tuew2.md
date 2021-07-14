@@ -9,7 +9,7 @@ it's a continuous variable
 #### - How many observations are in the training dataset? How many are used in the validation set?
 10,000 observations in the training, and 1,000 in the validation.
 
-_________________
+___
 
 
 `2`
@@ -36,7 +36,7 @@ _________________
 
 I believe the combined L2 + dropout did better because it utilized both regularization techniques at once. Penalized the weight parameters as well as dropping out some output features as the model trained.
 
-_________________
+___
 
 
 `4`
