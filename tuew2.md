@@ -8,7 +8,8 @@ it's a continuous variable
 28 features.
 #### - How many observations are in the training dataset? How many are used in the validation set?
 10,000 observations in the training, and 1,000 in the validation.
-_______
+_________________
+
 `2`
 
 #### - How did each of the four models perform (tiny, small, medium and large)? 
@@ -25,12 +26,15 @@ The small model performed the best, the medium and large performed the worst.
 I think the tiny and smaller models performed better because simpler models are less complex and have fewer parameters-- the smaller values minimized the distribution
 #### - Produce a plot that illustrates and compares all four models.
 _________________
+
 `3`
 
 #### - Apply regularization, then add a drop out layer and finally combine both regularization with a dropout layer. Produce a plot that illustrates and compares all four models. Why in your estimation did certain models perform better?
 ![img_12.png](img_12.png)
+
 I believe the combined L2 + dropout did better because it utilized both regularization techniques at once. Penalized the weight parameters as well as dropping out some output features as the model trained.
 _________________
+
 `4`
 
 #### - What is an overfit model? 
