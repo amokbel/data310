@@ -13,8 +13,9 @@
 
 -[Monday 07/12](https://gwen013.github.io/data310/Monday12Response.html)
 
--[Tuesday 07/13](tuew2.md)
+-[Tuesday 07/13- Higgs dataset](tuew2.md)
 
+-[Tuesday 07/13](wedw2.md)
 
 ## Projects
 
