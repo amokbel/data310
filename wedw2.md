@@ -2,19 +2,27 @@
 
 [ [-4, -5, -4], [0, 0, 0], [4, 5, 4]]
 
+
 ![img_13.png](img_13.png)
+
 
 My first filter darkened my background and brought forward my lines; mostly vertical lines. I can also see lines in the background that were not visible at all before.
 
+
 [ [-2, 2, -2], [0, 1, 0], [2, -2, 2]]
+
 
 ![img_14.png](img_14.png)
 
+
 This filter seemed to sharpen vertical lines such as the pillars
+
 
 [ [1, 0, -1], [0, 0, 0], [0, 0, 1]]
 
+
 ![img_15.png](img_15.png)
+
 
 this one looks a lot like the previous filter. except its more blurry so it seems to be doing a poorer job at bringing out the lines/features of the image.
 
@@ -25,6 +33,7 @@ ___
 Did the resulting image increase in size or decrease? 
 
 ![img_16.png](img_16.png)
+
 
 
 I applied this to my first image/filter plotted. Now, the picture is a lot more accentuated; the lines were brought forward more and the background is even lighter now.
