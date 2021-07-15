@@ -15,7 +15,7 @@
 
 -[Tuesday 07/13- Higgs dataset](tuew2.md)
 
--[Tuesday 07/13](wedw2.md)
+-[Wednesday 07/14](wedw2.md)
 
 ## Projects
 
