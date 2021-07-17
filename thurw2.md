@@ -35,4 +35,39 @@ ___
 `2`
 
 #### - Did your model performance improve? How many epochs were you able to run and how much time did it take? Present your results and discuss the accuracy of your augmented output for tomorrow's class. 
-- This part is still running.. will update with results soon!
+
+- ### **_augmented BEAN_**
+
+![img_21.png](img_21.png)
+
+**Results:**
+
+Train accuracy: 0.3398
+
+Val accuracy: 0.3269
+
+My results look very bad. My model's preformance did not improve, even though I ran the augmented BEAN dataset with 10 epochs (the un-augmented was run on 6 epochs). This model did very poorly. 
+
+My 10 epochs on the augmenented bean dataset each took about 7 minutes to run.
+
+
+### **_augmented EUROSAT_**
+
+![img_20.png](img_20.png)
+
+**Results:**
+
+Train accuracy: 0.8941
+
+Val accuracy: 0.8696
+
+My model did slightly improve in this one from the un-agumented model. It's also obvious that my augmeneted eurosat did better than my augmented bean dataset, because of the higher accuracies!
+
+I also ran 10 epochs here, with each epoch taking about a minute and a half to run (which was faster than the augmented-bean epochs)
+
+So, overall, the eurosat dataset did better than the bean dataset both as augmeneted and unaugmented.
+___
+
+
+
+My biggest challenge with this code was honestly how slow it ran on my computer. Also, when I left it to run, it slowed down my entire computer and it was almost impossible to use it for anything else. So that was definitely a limitation. I am sure I could have done better with more epochs..
