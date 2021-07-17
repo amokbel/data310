@@ -43,3 +43,8 @@ It seems to maximize the values by minimizing the **amount** of values; in other
 
 #### - Did the resulting image increase in size or decrease?
 it decreased the size.
+
+---
+Convolving result:
+
+![img_17.png](img_17.png)
