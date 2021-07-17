@@ -66,6 +66,7 @@ My model did slightly improve in this one from the un-agumented model. It's also
 I also ran 10 epochs here, with each epoch taking about a minute and a half to run (which was faster than the augmented-bean epochs)
 
 So, overall, the eurosat dataset did better than the bean dataset both as augmeneted and unaugmented.
+
 ___
 
 
