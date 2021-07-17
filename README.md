@@ -17,6 +17,8 @@
 
 -[Wednesday 07/14](wedw2.md)
 
+-[Thursday 07/15](thurw2.md)
+
 ## Projects
 
 -[Project 1](Project1.md)
