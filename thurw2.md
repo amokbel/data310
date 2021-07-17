@@ -35,4 +35,4 @@ ___
 `2`
 
 #### - Did your model performance improve? How many epochs were you able to run and how much time did it take? Present your results and discuss the accuracy of your augmented output for tomorrow's class. 
-- This is still running while i sleep.. will update with results soon!
+- This part is still running.. will update with results soon!
