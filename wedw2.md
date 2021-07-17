@@ -47,4 +47,4 @@ it decreased the size.
 ---
 Convolving result:
 
-![img_17.png](img_17.png)
+![img_18.png](img_18.png)
