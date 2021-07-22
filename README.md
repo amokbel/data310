@@ -19,6 +19,12 @@
 
 -[Thursday 07/15](thurw2.md)
 
+**Module 3**
+
+- [Monday 07/19](monw3.md)
+
+- [Tuesday 07/20](tuew3.md)
+
 ## Projects
 
 -[Project 1](Project1.md)
