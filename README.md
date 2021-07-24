@@ -25,6 +25,11 @@
 
 - [Tuesday 07/20](tuew3.md)
 
+- [Wednesday 07/21](wedw3.md)
+
+- [Thursday 07/22- group](https://gwen013.github.io/data310/22ThursdayResponse.html)
+
+
 ## Projects
 
 -[Project 1](Project1.md)
