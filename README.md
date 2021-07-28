@@ -33,3 +33,5 @@
 ## Projects
 
 -[Project 1](Project1.md)
+
+-[Project 3](project3.md)
