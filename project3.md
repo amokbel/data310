@@ -1,3 +1,5 @@
+## Project 3
+
 I first created a simple model with only numeric and indicator columns and got the following accuracies:
 
 wealth (1) = 0.7937577962875366
