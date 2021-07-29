@@ -31,7 +31,7 @@
 
 **Module 4**
 
-=[Wednesday 07/28](wedw4.md)
+-[Wednesday 07/28](wedw4.md)
 
 
 ## Projects

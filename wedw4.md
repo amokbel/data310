@@ -1,4 +1,4 @@
-##Neural Style Transfer 
+## Neural Style Transfer 
 
 The two images I picked were the following:
 
