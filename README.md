@@ -33,6 +33,8 @@
 
 -[Wednesday 07/28](wedw4.md)
 
+-[Thursday 07/29](thurw4.md)
+
 
 ## Projects
 
