@@ -1,4 +1,4 @@
-## Predicting the Likelyhood of Substance Abuse and Addiction
+## Predicting Substance Abuse and Addiction
 
-### Abstract
+### Abstract (Draft)
 Drug overdose is currently the leading cause of death in the United States for people aged under 50. According to CDC, in 2019, 70,630 drug overdose deaths occurred in the United States alone. I plan to use the dataset [Drug Overdose Deaths](https://www.kaggle.com/ruchi798/drug-overdose-deaths?select=drug_deaths.csv) from Kaggle to examine the trends of reported overdose deaths and to see if I can build a model that can predict which individuals are more prone to addiction and use it in the future to have help more readily available as well as support systems. I suspect that a lot more information will be needed, such as family  history, mental health, life-stress, income, and more precise locations, to name a few. However, starting with a simple dataset will (hopefully) provide guidance.
